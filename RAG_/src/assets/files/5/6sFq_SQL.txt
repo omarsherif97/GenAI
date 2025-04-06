@@ -1,0 +1,29 @@
+1. Database => Table that consist of multiple records (rows) and multiple fields (columns)
+
+
+	Row in a database => Record
+	Column in a database => Field | Header
+	primary key => identifire 
+	
+	
+	validation => when entering data into database there are some validation checks ( length - number - format )
+	
+	
+	
+	if x==5 AND y==1:
+		
+		*   => everything 
+		
+	SELECT *
+	FROM ProductTable
+	WHERE QuantityInStock > 3   
+	
+	
+	SQL:
+	
+	1. SELECT => retreive a certain from a database.
+	2. FROM => choose a certain database
+	3. WHERE => puts a condition 
+	4. SUM => summing all numerical data given to it
+	5. COUNT => count each memeber 
+	6. * => everything 
